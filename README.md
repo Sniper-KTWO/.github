@@ -6,12 +6,9 @@
 - KT 요고 요금제 페이지 UI 개선
 
 ## 2. Team Member (팀원)
-|김지윤|김예린|윤혜원|
+|김지윤|김예린|윤혜원|
 |------|---|---|
-|<img width="415" alt="image" src="https://github.com/user-attachments/assets/43d7ce40-ecca-4533-bdb0-8fe4564603ec">
-|<img width="415" alt="image" src="https://github.com/user-attachments/assets/e1df50d1-f9d7-4c6c-9bb4-8dbdded63978">
-|![image](https://github.com/user-attachments/assets/fee57b9a-ec9e-41a9-a82b-f56a841827ed)
-|
+|<img width="415" alt="image" src="https://github.com/user-attachments/assets/43d7ce40-ecca-4533-bdb0-8fe4564603ec">|<img width="415" alt="image" src="https://github.com/user-attachments/assets/e1df50d1-f9d7-4c6c-9bb4-8dbdded63978">|![image](https://github.com/user-attachments/assets/fee57b9a-ec9e-41a9-a82b-f56a841827ed)|
 |https://github.com/jiyoonkim01|https://github.com/yelynnn|https://github.com/iey704|
 
 ## 3. Key Features (주요 기능)
