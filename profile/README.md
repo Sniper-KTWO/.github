@@ -2,6 +2,9 @@
 
 ## 0. Getting Started (시작하기)
 
+```
+npm run dev
+```
 
 ## 1. Project Overview (프로젝트 개요)
 - KT 요고 요금제 페이지 UI 개선
